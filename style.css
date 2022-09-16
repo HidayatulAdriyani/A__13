@@ -1,0 +1,129 @@
+body {
+    background-color:rgb(31, 33, 34);
+    background-image: url(images/br\ simple.jpg);
+    font :50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.home {
+    font-size: 20px;
+    text-align: right;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    height: 500px;
+ }
+
+ .header  {
+    padding: 15px;
+    font-size: 20px;
+    color: rgb(100, 139, 170);
+    background-color: beige;
+}
+
+.header ul li{
+    display:inline-block; 
+    margin-top: -20px;
+    margin-right: 20px;
+ }
+
+ .header a {
+    text-decoration-style: none;
+    font-weight: bold;
+    display: block;
+    transition:all 0.5s;
+    line-height: normal;
+    display: inline-block;
+    color: rgb(100, 139, 170);
+ }
+
+.header a:hover{
+ background-color: rgb(147, 191, 229);
+}
+ 
+ .isi {
+    padding: 15px;
+    border-bottom: 5px solid  rgb(83, 100, 107);
+    border-top: 5pt;
+    
+}
+ 
+.isi p {
+    font-size: 25px;
+    color: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.isi h1 {
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.section-title {
+    color: rgb(100, 139, 170);
+    font-size: 25px;
+}
+
+
+
+.footer {
+    height: 70px;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 200px;
+    
+    
+}
+ .footer .copy { 
+    text-align: center;
+    font-weight: bold;
+ }
+
+ .Wedding {
+width:  25%;
+margin: 15px ;
+height: 150px;
+padding: 5px 5px;
+float: left;
+border-radius: 20px;
+}
+
+ .contents {
+    padding: 20px;
+}
+ .section-title {
+    color: rgb(100, 139, 170); 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .contents-item p {
+    color: rgb(238, 150, 197);
+}
+
+ .Graduation {
+    width:  25%;
+    margin: 15px ;
+    height: 150px;
+    padding: 5px 5px;
+    float: left;
+    border-radius: 20px;
+}
+
+.gift {
+    width:  25%;
+    margin: 15px ;
+    height: 150px;
+    padding: 5px 5px;
+    float: left;
+    border-radius: 20px;
+}
+
+     
